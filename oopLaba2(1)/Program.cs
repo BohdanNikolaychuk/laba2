@@ -12,7 +12,7 @@ namespace oopLaba2_1_
             switch (i)
             {
                 case 1:
-                Console.WriteLine("A");
+                Console.WriteLine("Ai");
                     break;
                 case 2:
                     Console.WriteLine("Б");
